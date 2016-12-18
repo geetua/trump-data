@@ -28,6 +28,9 @@ for file in `ls /tmp/speeches`; do
   echo $file
   ./clean.py < /tmp/speeches/$file > /tmp/cleaned/speeches/$file
 done
+pushd /tmp/cleaned/speeches
+rename "s/html/json/" *.html
+popd
 ```
 
 And repeat for any other candidate / content type you want. See: http://www.presidency.ucsb.edu/2016_election.php
