@@ -1,5 +1,5 @@
-trump-speeches
-==============
+trump-data
+==========
 
 Source: http://www.presidency.ucsb.edu/2016_election.php
 
