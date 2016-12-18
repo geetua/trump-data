@@ -29,3 +29,5 @@ for file in `ls /tmp/speeches`; do
   ./clean.py < /tmp/speeches/$file > /tmp/cleaned/speeches/$file
 done
 ```
+
+And repeat for any other candidate / content type you want. See: http://www.presidency.ucsb.edu/2016_election.php
