@@ -23,7 +23,7 @@ curl $SPEECHES | OUT=/tmp/speeches ./dl.py
 Then clean it
 
 ```
-mkdir /tmp/cleaned/speeches
+mkdir -p /tmp/cleaned/speeches
 for file in `ls /tmp/speeches`; do
   echo $file
   ./clean.py < /tmp/speeches/$file > /tmp/cleaned/speeches/$file
