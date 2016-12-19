@@ -58,3 +58,7 @@ Some notable features include
 * Immigration had a similar bursty pattern, but was a more heavy focus overall than ISIS
 * Obamacare increased in frequency of mentions towards the end of the speeches
 * "Crooked" (to describe Clinton), was used only a few times towards beginning of speeches (though anecdotally, this appears seemingly more often in Tweets - should follow up on that)
+
+The burst-then-steady-reference pattern seen with immigration and ISIS might suggest that a campaign strategy was to narrow focus to one issue, cement opinions, then temper them by invoking recollection.
+
+The heavy focus on jobs and trade, which are less abstract than the economy, also suggests a more populist approach, since these things can be felt more viscerally (e.g. losing manufacturing jobs to China).
