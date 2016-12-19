@@ -50,15 +50,6 @@ This shows the lexical dispersion plot for several phrases in all of Trump's spe
 
 ![trump-lexical-dispersion-plot.png](examples/trump-lexical-dispersion-plot.png)
 
-Some notable features include
-
-* Jobs and trade were mentioned constantly throughout the speeches, but economy less so
-* Sanders was discussed briefly at the beginning, then brought up again at the end
-* There was a segment in the speeches that heavily focused on ISIS, but it was relatively low frequency overall
-* Immigration had a similar bursty pattern, but was a more heavy focus overall than ISIS
-* Obamacare increased in frequency of mentions towards the end of the speeches
-* "Crooked" (to describe Clinton), was used only a few times towards beginning of speeches (though anecdotally, this appears seemingly more often in Tweets - should follow up on that)
-
 The burst-then-steady-reference pattern seen with immigration and ISIS might suggest that a campaign strategy was to narrow focus to one issue, cement opinions, then temper them by invoking recollection.
 
-The heavy focus on jobs and trade, which are less abstract than the economy, also suggests a more populist approach, since these things can be felt more viscerally (e.g. losing manufacturing jobs to China).
+Also, the heavy focus on jobs and trade, which are less abstract than the economy, also suggests a more populist approach, since these things can be felt more viscerally (e.g. losing manufacturing jobs to China).
