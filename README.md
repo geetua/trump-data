@@ -34,3 +34,10 @@ popd
 ```
 
 And repeat for any other candidate / content type you want. See: http://www.presidency.ucsb.edu/2016_election.php
+
+Examples
+--------
+
+After Trump secured the nomination, the campaign solely relied on speeches
+
+![trump-communication.png](examples/trump-communication.png)
