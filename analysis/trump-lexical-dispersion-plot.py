@@ -28,6 +28,8 @@ nltk.draw.dispersion_plot(text, [
     "economy",
     "jobs",
     "trade",
+    "russia",
+    "putin",
 ], 
 ignore_case=True,
-title='Lexical Dispersion Plot of Select Phrases in Time-Ordered Trump Speeches')
+title='Lexical Dispersion Plot of Select Phrases in Time-Ordered Trump Tweets (after nomination)')

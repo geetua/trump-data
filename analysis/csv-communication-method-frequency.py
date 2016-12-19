@@ -6,6 +6,8 @@ import os
 rows = []
 
 for method in os.listdir(sys.argv[1]):
+    if not method in ['speeches', 'press-releases', 'statements']:
+        continue
     dirname = os.path.join(sys.argv[1], method)
     for filename in os.listdir(dirname):
         with open(os.path.join(dirname, filename)) as f:
