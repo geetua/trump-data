@@ -63,3 +63,9 @@ Maybe most notably, Clinton is mentioned by name with the highest frequency of a
 This has further support in the fact that the distribution of these terms is notably sparse among tweets, with the exception of the names (or nicknames) of rival politicans
 
 ![trump-tweets-lexical-dispersion-plot.png](examples/trump-tweets-lexical-dispersion-plot.png)
+
+Clinton delivered roughly five times as much content in her speeches (525128 words after cleaning, vs. Trump's 106229), and the distribution of each candidate's chosen words was roughly the same
+
+![word-length-density.png](examples/word-length-density.png)
+
+As word length is [at least some measure of complexity](https://langcog.stanford.edu/papers_new/lewis-2015-underrev.pdf), this suggests that both candidates were somewhat calibrated to deliver a message to the same general audience.

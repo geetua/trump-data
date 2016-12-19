@@ -13,4 +13,4 @@ for filename in sys.argv[1:]:
         texts.append((data['date'], data['text']))
 
 for text in sorted(texts):
-    print text[1]
+    print text[1].encode('ascii', 'ignore')
