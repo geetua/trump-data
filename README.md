@@ -55,3 +55,5 @@ This shows the lexical dispersion plot for several phrases in all of Trump's spe
 The bursty, highly-focused pattern seen with immigration and ISIS might have helped cement opinions on these topics, whose intensity the subsequent steady references could easily recall due to availability bias.
 
 Also, the heavy focus on jobs and trade - which are less abstract than the economy - is interesting, since these things can be felt viscerally (e.g. losing manufacturing jobs to China from outsourcing vs. GDP changing by X%).
+
+Maybe most notably, Clinton is mentioned by name with the highest frequency of any of these terms, which suggests a primarily antagonistic approach.
