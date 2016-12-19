@@ -45,3 +45,15 @@ After Trump secured the nomination, the campaign relied only on speeches
 Whereas Clinton had a more even distribution of speeches, press releases, and statements
 
 ![clinton-communication.png](examples/clinton-communication.png)
+
+This shows the lexical dispersion plot for several phrases in all of Trumps speeches concatenated together
+
+![trump-lexical-dispersion-plot.png](examples/trump-lexical-dispersion-plot.png)
+
+Some notable features include
+
+* Jobs and trade were mentioned constantly throughout the speeches, but economy less so
+* Sanders was discussed briefly at the beginning, then brought up again at the end
+* There was a segment in the speeches that heavily focused on ISIS, but it was relatively low frequency overall
+* Obamacare increased in frequency of mentions towards the end of the speeches
+* "Crooked" (to describe Clinton), was used only a few times towards beginning of speeches (though anecdotally, this appears seemingly more often in Tweets - should follow up on that)
