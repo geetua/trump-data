@@ -17,4 +17,5 @@ data %>%
   geom_vline(xintercept = as.numeric(ymd("2016-11-08")), linetype=2) +
   annotate("text", x = ymd("2016-11-08"), y = -1, label = "Election") +
   geom_vline(xintercept = as.numeric(ymd("2016-07-21")), linetype=2) +
-  annotate("text", x = ymd("2016-07-21"), y = -1, label = "Nomination")
+  #annotate("text", x = ymd("2016-07-21"), y = -1, label = "Nomination")
+  annotate("text", x = ymd("2016-07-26"), y = -1, label = "Nomination")

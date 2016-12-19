@@ -38,6 +38,10 @@ And repeat for any other candidate / content type you want. See: http://www.pres
 Examples
 --------
 
-After Trump secured the nomination, the campaign solely relied on speeches
+After Trump secured the nomination, the campaign relied only on speeches
 
 ![trump-communication.png](examples/trump-communication.png)
+
+Whereas Clinton had a more even distribution of speeches, press releases, and statements
+
+![clinton-communication.png](examples/clinton-communication.png)
