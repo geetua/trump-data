@@ -46,7 +46,7 @@ Whereas Clinton had a more even distribution of speeches, press releases, and st
 
 ![clinton-communication.png](examples/clinton-communication.png)
 
-Given that pre-nomination, the Trump campaign showed a more even distribution among these methods, there must have been some perceived or real advantage to switching to entirely speeches.
+Given that pre-nomination, the Trump campaign showed a more even distribution among these methods, (with speeches notably underrepresented), there must have been some perceived or real advantage to switching to entirely speeches.
 
 This shows the lexical dispersion plot for several phrases in all of Trump's speeches concatenated together
 
