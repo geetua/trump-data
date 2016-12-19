@@ -46,10 +46,12 @@ Whereas Clinton had a more even distribution of speeches, press releases, and st
 
 ![clinton-communication.png](examples/clinton-communication.png)
 
+Given that pre-nomination, the Trump campaign showed a more even distribution among these methods, there must have been some perceived or real advantage to switching to entirely speeches.
+
 This shows the lexical dispersion plot for several phrases in all of Trump's speeches concatenated together
 
 ![trump-lexical-dispersion-plot.png](examples/trump-lexical-dispersion-plot.png)
 
-The burst-then-steady-reference pattern seen with immigration and ISIS might suggest that a campaign strategy was to narrow focus to one issue and cement opinions, then later leverage an availability bias among voters.
+The bursty, highly-focused pattern seen with immigration and ISIS might have helped cement opinions on these topics, whose intensity the subsequent steady references could easily recall due to availability bias.
 
-Also, the heavy focus on jobs and trade - which are less abstract than the economy - suggests a more populist approach, since these things can be felt viscerally (e.g. losing manufacturing jobs to China from outsourcing vs. GDP changing by X%), yet these terms all map (roughly) to the same category.
+Also, the heavy focus on jobs and trade - which are less abstract than the economy - is interesting, since these things can be felt viscerally (e.g. losing manufacturing jobs to China from outsourcing vs. GDP changing by X%).
