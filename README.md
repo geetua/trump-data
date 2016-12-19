@@ -17,7 +17,7 @@ First download the data
 ```
 SPEECHES="http://www.presidency.ucsb.edu/2016_election_speeches.php?candidate=45&campaign=2016TRUMP&doctype=5000"
 mkdir /tmp/speeches
-curl $SPEECHES | OUT=/tmp/speeches ./dl.py
+curl $SPEECHES | OUT=/tmp/speeches ./bin/dl.py
 ```
 
 Then clean it
@@ -26,7 +26,7 @@ Then clean it
 mkdir -p /tmp/cleaned/speeches
 for file in `ls /tmp/speeches`; do
   echo $file
-  ./clean.py < /tmp/speeches/$file > /tmp/cleaned/speeches/$file
+  ./bin/clean.py < /tmp/speeches/$file > /tmp/cleaned/speeches/$file
 done
 pushd /tmp/cleaned/speeches
 rename "s/html/json/" *.html
