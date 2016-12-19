@@ -58,6 +58,8 @@ The bursty, highly-focused pattern seen with immigration and ISIS might have hel
 
 Also, the heavy focus on jobs and trade - which are less abstract than the economy - is interesting, since these things can be felt viscerally (e.g. losing manufacturing jobs to China from outsourcing vs. GDP changing by X%).
 
-Maybe most notably, Clinton is mentioned by name with the highest frequency of any of these terms, which suggests a primarily antagonistic approach. This has further support in the fact that the distribution of these terms is notably sparse among tweets, with the exception of the names (or nicknames) of rival politicans
+Maybe most notably, Clinton is mentioned by name with the highest frequency of any of these terms, which suggests a primarily antagonistic approach. 
 
-![trump-tweet-lexical-dispersion-plot.png](examples/trump-tweet-lexical-dispersion-plot.png)
+This has further support in the fact that the distribution of these terms is notably sparse among tweets, with the exception of the names (or nicknames) of rival politicans
+
+![trump-tweets-lexical-dispersion-plot.png](examples/trump-tweets-lexical-dispersion-plot.png)
