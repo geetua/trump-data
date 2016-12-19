@@ -64,7 +64,7 @@ This has further support in the fact that the distribution of these terms is not
 
 ![trump-tweets-lexical-dispersion-plot.png](examples/trump-tweets-lexical-dispersion-plot.png)
 
-Clinton delivered roughly five times as much content in her speeches (525128 words after cleaning, vs. Trump's 106229), and the distribution of each candidate's chosen words was roughly the same
+Clinton delivered roughly five times as much content in her speeches (525128 words after cleaning, vs. Trump's 106229), and the distribution of the length of each candidate's chosen words was roughly the same
 
 ![word-length-density.png](examples/word-length-density.png)
 
