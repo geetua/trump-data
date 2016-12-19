@@ -46,7 +46,7 @@ Whereas Clinton had a more even distribution of speeches, press releases, and st
 
 ![clinton-communication.png](examples/clinton-communication.png)
 
-This shows the lexical dispersion plot for several phrases in all of Trumps speeches concatenated together
+This shows the lexical dispersion plot for several phrases in all of Trump's speeches concatenated together
 
 ![trump-lexical-dispersion-plot.png](examples/trump-lexical-dispersion-plot.png)
 
