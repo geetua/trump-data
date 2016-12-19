@@ -50,6 +50,6 @@ This shows the lexical dispersion plot for several phrases in all of Trump's spe
 
 ![trump-lexical-dispersion-plot.png](examples/trump-lexical-dispersion-plot.png)
 
-The burst-then-steady-reference pattern seen with immigration and ISIS might suggest that a campaign strategy was to narrow focus to one issue, cement opinions, then temper them by invoking recollection.
+The burst-then-steady-reference pattern seen with immigration and ISIS might suggest that a campaign strategy was to narrow focus to one issue and cement opinions, then later leverage an availability bias among voters.
 
 Also, the heavy focus on jobs and trade - which are less abstract than the economy - also suggests a more populist approach, since these things can be felt more viscerally (e.g. losing manufacturing jobs to China from outsourcing), yet these terms all map (roughly) to the same category.
