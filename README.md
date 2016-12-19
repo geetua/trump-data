@@ -66,6 +66,8 @@ This has further support in the fact that the distribution of these terms is not
 
 Clinton delivered roughly five times as much content in her speeches (525128 words after cleaning, vs. Trump's 106229), and the distribution of the length of each candidate's chosen words was roughly the same
 
-![word-length-density.png](examples/word-length-density.png)
+![word-length-distribution.png](examples/word-length-distribution.png)
 
-As word length is [at least some measure of complexity](https://langcog.stanford.edu/papers_new/lewis-2015-underrev.pdf), this suggests that both candidates were somewhat calibrated to deliver a message to the same general audience.
+As word length is [at least some measure of complexity](https://langcog.stanford.edu/papers_new/lewis-2015-underrev.pdf), this suggests that both candidates were calibrated to deliver a message to the same general audience. 
+
+However, we do see that Trump tended to use longer words (as determined by NLTK) more frequently than Clinton, so he may, in fact, [have had the best words](http://dailycaller.com/2015/12/30/trump-i-know-words-i-have-the-best-words-obama-is-stupid-video/).
