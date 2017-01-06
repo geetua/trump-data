@@ -71,3 +71,19 @@ Clinton delivered roughly five times as much content in her speeches (525128 wor
 As word length is [at least some measure of complexity](https://langcog.stanford.edu/papers_new/lewis-2015-underrev.pdf), this suggests that both candidates were calibrated to deliver a message to the same general audience. 
 
 However, we do see that Trump tended to use longer words (as determined by NLTK) more frequently than Clinton, so he may, in fact, [have had the best words](http://dailycaller.com/2015/12/30/trump-i-know-words-i-have-the-best-words-obama-is-stupid-video/).
+
+Using [jsvine/markovify](https://github.com/jsvine/markovify), we can also easily build a Tweet generator, e.g.
+
+```
+>> COUNT=10 ./bin/markov-trump.py < data/2016_donald-trump/tweets/donald-trump-tweets.csv 
+#ICYMI - I will be an all-time record?Congratulations to Jim Herman, my ass't golf pro at Trump National Doral.
+To shop please visit http://www.DonaldJTrump.com  --- it is to play his great father..@CGasparino Good seeing you.
+No way they hit Senators Cruz & Rubio.
+Tune in tonight at 10:00.
+WE WILL MAKE AMERICA GREAT AGAIN!Wow, @CNN is a terrific guy and a conflict for all of Congress from ObamaCare.
+MAKE AMERICA GREAT AGAIN!http://www.wsj.com/articles/let-me-ask-america-a-question-1460675882 …Join me on This Week.
+What is going home?
+He is making people aware of how good they stand for.
+#Debatespic.twitter.com/DHPBb7IR91 – at Trump TowerWe pause today to wish everyone A HAPPY AND HEALTHY NEW YEAR.
+U.S. should NEVER have made the Jump to Trump.
+```
