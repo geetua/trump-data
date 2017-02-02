@@ -215,10 +215,11 @@ class TwitterSearchImpl(TwitterSearch):
 
         return True
 
+QUERY = os.environ.get('QUERY', 'from:realdonaldtrump')
 
 if __name__ == '__main__':
     with open(OUT_FILE, "w") as f:
         writer = csv.writer(f)
         writer.writerow(["Text", "Date", "Favorites", "Retweets", "Tweet ID"])
         twit = TwitterSearchImpl(0, 5, writer)
-        twit.search("from:realdonaldtrump")
+        twit.search(QUERY)
